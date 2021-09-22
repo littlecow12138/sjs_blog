@@ -6,7 +6,7 @@
   <link href="http://47.100.96.211/atom.xml" rel="self"/>
   
   <link href="http://47.100.96.211/"/>
-  <updated>2021-09-10T15:09:12.769Z</updated>
+  <updated>2021-09-22T15:31:14.242Z</updated>
   <id>http://47.100.96.211/</id>
   
   <author>
@@ -15,6 +15,39 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>react + umi + dva + antd技术栈学习</title>
+    <link href="http://47.100.96.211/2021/09/22/react-umi-dva-antd-ji-zhu-zhan-xue-xi-1/"/>
+    <id>http://47.100.96.211/2021/09/22/react-umi-dva-antd-ji-zhu-zhan-xue-xi-1/</id>
+    <published>2021-09-22T15:30:40.058Z</published>
+    <updated>2021-09-22T15:31:14.242Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;react-umi-dva-antd技术栈学习&quot;&gt;&lt;a href=&quot;#react-umi-dva-antd技术栈学习&quot; class=&quot;headerlink&quot; title=&quot;react + umi + dva + antd技术栈学习&quot;&gt;&lt;/a&gt;react +</summary>
+        
+      
+    
+    
+    
+    <category term="react" scheme="http://47.100.96.211/categories/react/"/>
+    
+    <category term="umi" scheme="http://47.100.96.211/categories/react/umi/"/>
+    
+    <category term="dva" scheme="http://47.100.96.211/categories/react/umi/dva/"/>
+    
+    
+    <category term="react" scheme="http://47.100.96.211/tags/react/"/>
+    
+    <category term="umi" scheme="http://47.100.96.211/tags/umi/"/>
+    
+    <category term="dva" scheme="http://47.100.96.211/tags/dva/"/>
+    
+  </entry>
   
   <entry>
     <title>数据类型</title>
